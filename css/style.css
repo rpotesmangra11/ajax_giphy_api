@@ -1,0 +1,44 @@
+#header {
+	background-color: black;
+	color: #e50914;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+.jumbotron {
+	min-height: 200px;
+}
+
+label {
+	font-size: 18px;
+}
+
+h1{
+	padding-top: 25px;
+}
+
+#show {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#netflixSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.netflixGiphy {
+	padding: 2px;
+	width: 80%;
+}
